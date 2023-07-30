@@ -36,7 +36,8 @@ class ArbitrageFinder:
                             print(f"Potential Profit: {price_difference} ({percentage_difference:.2f}%)")
                             print("-----------------")
 
-# Example usage.
+# Example usage:
+# usage
 binance = ccxt.binance({
     'apiKey': 'YOUR_API_KEY',
     'secret': 'YOUR_API_SECRET',
