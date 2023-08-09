@@ -37,7 +37,7 @@ class ArbitrageFinder:
                             print("-----------------")
 
 # Example usage:
-# usage
+# usage:
 binance = ccxt.binance({
     'apiKey': 'YOUR_API_KEY',
     'secret': 'YOUR_API_SECRET',
