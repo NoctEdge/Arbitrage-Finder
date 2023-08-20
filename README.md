@@ -3,7 +3,7 @@
 A python script that identifies and exploits price differences across different cryptocurrency exchanges...
 
 
-Please note that To use the code, make sure you have the ccxt library installed. You can install it using the following command;
+Please note that To use the code, make sure you have the ccxt library installed. You can install it using the following command:
 
 ```bash
 pip install ccxt
